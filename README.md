@@ -17,6 +17,10 @@ Scope:
 
 The scope of this new program is to deal with customers as they order items. Almost all customers get furious of the long queues to the customer reception of famous coffeehouses such as Dunkin’ Donuts. Now with the Dunkin’ Donuts Easy Order system, customers can easily order items in their favorite coffeehouse. The customers can know of the prices of items and the total amount of their order then and there.
 
+Tools:
+
+Microsoft Visual Studio 2010 and Microsoft Visual Studio Express 2012.
+
 Design:
 
     1. The program display a table of the main menu with serial numbers to different categories of items when starts.
@@ -24,7 +28,7 @@ Design:
     3. The program goes further and displays a table for different flavors of the items they selected the category for with their prices.
     4. The user enters the desired serial number for the item they want to order.
     5. The user can now go further to add more items to their order, or go to check out and see their total bill, or simply go backward to the main menu.
-    
+
 Reference:
 
     1. http://www.cppforschool.com/tutorial/Files1.html
